@@ -1,0 +1,15 @@
+.WaitingForYouwrapper{
+    width: 100%;
+    padding: 50px 0;
+}
+
+.WaitingForYou{
+    max-width: 1050px;
+    width: 94%;
+    margin: auto;
+    /* background: rgba(255, 242, 249, 1); */
+    background-color: #FAFAFA;
+    /* #FF5C01 */
+    border-radius: 10px;
+    padding: 20px 10px;
+}
